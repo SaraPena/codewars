@@ -11,3 +11,5 @@ def getCount(inputStr):
     # your code here
     
     return num_vowels
+
+#This is a completed solution

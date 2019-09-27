@@ -1,7 +1,7 @@
-# codewars
+# Codewars Completed Solutions Diary
 Challenges from codewars.com
-* Completed Solutions Diary:
- - 09.27.19 - SQL     SQL Basics: Simple View
+
+- 09.27.19 - SQL     SQL Basics: Simple View
  - 09.22.19 - SQL     Train: Conditional Count
  - 09.21.19 - Python  Train: Take a Ten Minute Walk
  - 09.20.19 - Python  Train: Vasya - Clerk

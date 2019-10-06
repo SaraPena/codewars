@@ -1,6 +1,7 @@
 # Codewars Completed Solutions Diary
 Challenges from codewars.com
 
+ - 10.05.19 - Python  Train: Detect Pangram
  - 09.27.19 - SQL     Easy SQL: Absolute Values and Log to Base
  - 09.27.19 - SQL     SQL Basics: Simple View
  - 09.22.19 - SQL     Train: Conditional Count

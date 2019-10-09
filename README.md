@@ -1,5 +1,7 @@
 # Codewars Completed Solutions Diary
 Challenges from codewars.com
+
+ - 10.09.19 - Python  Train: Count Characters in Your String
  - 10.09.19 - SQL     Train: Simple Min/Max
  - 10.05.19 - Python  Train: Detect Pangram
  - 09.27.19 - SQL     Easy SQL: Absolute Values and Log to Base

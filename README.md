@@ -1,6 +1,6 @@
 # Codewars Completed Solutions Diary
 Challenges from codewars.com
-
+ - 10.11.19 - Python  Train: Ones and Zeros
  - 10.09.19 - Python  Train: Count Characters in Your String
  - 10.09.19 - SQL     Train: Simple Min/Max
  - 10.05.19 - Python  Train: Detect Pangram

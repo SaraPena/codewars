@@ -1,5 +1,6 @@
 # Codewars Completed Solutions Diary
 Challenges from codewars.com
+ - 11.02.19 - Python  Train: Rount to the next multiple of 5
  - 10.12.19 - SQL     Easy SQL: Rounding Decimals
  - 10.12.19 - Python  Train: Sum of the first nth term of Series
  - 10.11.19 - Python  Train: Ones and Zeros
